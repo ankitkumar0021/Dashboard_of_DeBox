@@ -2,7 +2,6 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* overflow: hidden; */
 }
 .body {
   margin: 0;
@@ -82,7 +81,6 @@ body {
   gap: 40px;
   display: flex;
   justify-content: space-between;
-  /* margin-top: 20px; */
   padding: 20px;
 }
 /* .col-4 {
@@ -99,7 +97,7 @@ body {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
-/* CSS for headings */
+
 .content-container h2 {
   font-size: 24px;
   margin-bottom: 10px;
@@ -108,18 +106,18 @@ body {
 /* CSS for table data */
 .table-data {
   width: 100%;
-  border-collapse: separate; /* Use separate border-collapse */
-  border-spacing: 5px; /* Add 10px of spacing between table columns */
+  border-collapse: separate;
+  border-spacing: 5px;
 }
 .table-data2 {
   width: 100%;
-  border-collapse: separate; /* Use separate border-collapse */
-  border-spacing: 10px; /* Add 10px of spacing between table columns */
+  border-collapse: separate;
+  border-spacing: 10px;
 }
 
 .table-data th,
 .table-data td {
-  padding: 1px; /* Add padding to the table cells */
+  padding: 1px;
   text-align: left;
 }
 
@@ -176,7 +174,6 @@ body {
 .circle {
   width: 200px;
   height: 200px;
-  /* border: 1px solid black; */
   border-radius: 50%;
   position: relative;
   padding-bottom: 20px;
@@ -189,7 +186,6 @@ body {
   width: 20px;
   height: 20px;
   text-align: center;
-  /* line-height: 36px; */
   font-size: 18px;
   color: white;
   border-radius: 50%;
