@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .body {
   margin: 0;
@@ -85,6 +85,9 @@ body {
   /* margin-top: 20px; */
   padding: 20px;
 }
+/* .col-4 {
+  box-shadow: 10px 5px 5px black;
+} */
 
 .content-container {
   height: 260px;
